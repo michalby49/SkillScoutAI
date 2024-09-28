@@ -1,0 +1,6 @@
+@SkillScoutAI.Server_HostAddress = http://localhost:5228
+
+GET {{SkillScoutAI.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
